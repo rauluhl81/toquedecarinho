@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.techfc.com.br/</loc>
+    <loc>https://toquedecarinho.techfc.com.br/</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://www.techfc.com.br/gerador</loc>
+    <loc>https://toquedecarinho.techfc.com.br/gerador</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.techfc.com.br/ocasioes</loc>
+    <loc>https://toquedecarinho.techfc.com.br/ocasioes</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.techfc.com.br/sobre</loc>
+    <loc>https://toquedecarinho.techfc.com.br/sobre</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.techfc.com.br/contato</loc>
+    <loc>https://toquedecarinho.techfc.com.br/contato</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
