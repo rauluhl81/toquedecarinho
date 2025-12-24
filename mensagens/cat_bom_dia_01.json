@@ -1,0 +1,613 @@
+{
+  "uid": "cat_bom_dia_01",
+  "categoria": "Bom dia",
+  "descricao": "Mensagens e frases para desejar um bom dia e inspirar a jornada.",
+  "mensagens": [
+    {
+      "uid": "msg_bd_001",
+      "sequence": 1,
+      "titulo": "Começo de Tudo",
+      "mensagem": "Bom dia! Que a luz do sol ilumine seus caminhos e traga muita energia positiva para o seu dia."
+    },
+    {
+      "uid": "msg_bd_002",
+      "sequence": 2,
+      "titulo": "Com Alegria",
+      "mensagem": "Que a alegria de um novo dia te inspire a conquistar tudo o que deseja. Tenha um um excelente dia!"
+    },
+    {
+      "uid": "msg_bd_003",
+      "sequence": 3,
+      "titulo": "Reflexão da Manhã",
+      "mensagem": "Cada amanhecer é uma nova chance de fazer a diferença. Aproveite cada momento. Bom dia!"
+    },
+    {
+      "uid": "msg_bd_004",
+      "sequence": 4,
+      "titulo": "Para o Sucesso",
+      "mensagem": "Desejo um dia cheio de produtividade, foco e sucesso em seus projetos. Bom dia e boa sorte!"
+    },
+    {
+      "uid": "msg_bd_005",
+      "sequence": 5,
+      "titulo": "Com Carinho",
+      "mensagem": "Um abraço apertado logo cedo para te desejar um dia maravilhoso e cheio de boas notícias. Bom dia!"
+    },
+    {
+      "uid": "msg_bd_006",
+      "sequence": 6,
+      "titulo": "Novas Oportunidades",
+      "mensagem": "Abra os olhos para as novas oportunidades que este dia está trazendo. Bom dia! Vá e vença."
+    },
+    {
+      "uid": "msg_bd_007",
+      "sequence": 7,
+      "titulo": "Gratidão Matinal",
+      "mensagem": "Que a gratidão seja o primeiro sentimento ao acordar. Tenha um dia abençoado e cheio de paz. Bom dia!"
+    },
+    {
+      "uid": "msg_bd_008",
+      "sequence": 8,
+      "titulo": "Fé e Força",
+      "mensagem": "Com fé e força, você supera qualquer desafio que surgir. Desejo um bom dia repleto de coragem!"
+    },
+    {
+      "uid": "msg_bd_009",
+      "sequence": 9,
+      "titulo": "Simplesmente Bom Dia",
+      "mensagem": "Que seu dia seja tão lindo quanto o seu sorriso. Simplesmente, bom dia!"
+    },
+    {
+      "uid": "msg_bd_010",
+      "sequence": 10,
+      "titulo": "Energia Total",
+      "mensagem": "Recarregue as energias e siga em frente. Hoje é o dia perfeito para realizar. Bom dia!"
+    },
+    {
+      "uid": "msg_bd_011",
+      "sequence": 11,
+      "titulo": "Paz e Leveza",
+      "mensagem": "Que a paz e a leveza caminhem com você a cada passo. Tenha um dia sereno. Bom dia!"
+    },
+    {
+      "uid": "msg_bd_012",
+      "sequence": 12,
+      "titulo": "Vibrando Alto",
+      "mensagem": "Comece o dia vibrando alto e atraindo só coisas boas. Você merece o melhor. Bom dia!"
+    },
+    {
+      "uid": "msg_bd_013",
+      "sequence": 13,
+      "titulo": "Com Determinação",
+      "mensagem": "Determinação é a chave para transformar sonhos em realidade. Foque nos seus objetivos. Bom dia!"
+    },
+    {
+      "uid": "msg_bd_014",
+      "sequence": 14,
+      "titulo": "Um Presente",
+      "mensagem": "Receba este novo dia como um presente. Desfrute de cada minuto. Bom dia!"
+    },
+    {
+      "uid": "msg_bd_015",
+      "sequence": 15,
+      "titulo": "Manhã de Luz",
+      "mensagem": "Que a luz da manhã te encontre de pé e pronto para brilhar. Um excelente e radiante bom dia!"
+    },
+    {
+      "uid": "msg_bd_016",
+      "sequence": 16,
+      "titulo": "Inspiração Diária",
+      "mensagem": "Busque a inspiração em pequenas coisas. Um bom dia é construído com detalhes. Bom dia!"
+    },
+    {
+      "uid": "msg_bd_017",
+      "sequence": 17,
+      "titulo": "Caminhada Feliz",
+      "mensagem": "Que sua caminhada de hoje seja leve, produtiva e feliz. Sorria! Bom dia."
+    },
+    {
+      "uid": "msg_bd_018",
+      "sequence": 18,
+      "titulo": "Foco no Presente",
+      "mensagem": "O melhor dia para começar é hoje. Deixe o passado e foque no presente. Bom dia!"
+    },
+    {
+      "uid": "msg_bd_019",
+      "sequence": 19,
+      "titulo": "Saúde e Bem-Estar",
+      "mensagem": "Desejo um dia cheio de saúde, bem-estar e momentos de paz para você. Bom dia!"
+    },
+    {
+      "uid": "msg_bd_020",
+      "sequence": 20,
+      "titulo": "Motivação",
+      "mensagem": "Não espere o dia perfeito, faça o seu dia ser perfeito. Tenha muita motivação! Bom dia."
+    },
+    {
+      "uid": "msg_bd_021",
+      "sequence": 21,
+      "titulo": "Alegria no Coração",
+      "mensagem": "Que seu coração se encha de alegria ao contemplar o milagre de mais um amanhecer. Bom dia!"
+    },
+    {
+      "uid": "msg_bd_022",
+      "sequence": 22,
+      "titulo": "Bons Encontros",
+      "mensagem": "Espero que este dia te reserve encontros agradáveis e surpresas positivas. Bom dia!"
+    },
+    {
+      "uid": "msg_bd_023",
+      "sequence": 23,
+      "titulo": "Agradeça",
+      "mensagem": "Mais um dia para agradecer e viver intensamente. Valorize cada segundo. Bom dia!"
+    },
+    {
+      "uid": "msg_bd_024",
+      "sequence": 24,
+      "titulo": "Sonhos e Metas",
+      "mensagem": "Corra atrás dos seus sonhos e metas com garra. Você está mais perto do que pensa. Bom dia!"
+    },
+    {
+      "uid": "msg_bd_025",
+      "sequence": 25,
+      "titulo": "Simples Desejo",
+      "mensagem": "Um simples desejo de que tudo dê certo para você hoje. Que seja um dia incrível! Bom dia!"
+    },
+    {
+      "uid": "msg_bd_026",
+      "sequence": 26,
+      "titulo": "Recomeço de Dia",
+      "mensagem": "O sol nasceu para te lembrar que todo dia é uma chance de **recomeçar** e ser feliz. Bom dia!"
+    },
+    {
+      "uid": "msg_bd_027",
+      "sequence": 27,
+      "titulo": "Cultive a Paz",
+      "mensagem": "Cultive pensamentos positivos e a paz florescerá em seu dia. Um sereno e **abençoado** bom dia!"
+    },
+    {
+      "uid": "msg_bd_028",
+      "sequence": 28,
+      "titulo": "Mente Forte",
+      "mensagem": "Que sua **mente** esteja forte e seu coração esteja leve para enfrentar o que vier. Bom dia!"
+    },
+    {
+      "uid": "msg_bd_029",
+      "sequence": 29,
+      "titulo": "Ação e Atitude",
+      "mensagem": "Não adie a sua felicidade. Tome uma **atitude** e faça acontecer. Desejo um dia de muita ação! Bom dia."
+    },
+    {
+      "uid": "msg_bd_030",
+      "sequence": 30,
+      "titulo": "Beleza do Dia",
+      "mensagem": "Olhe ao redor e perceba a **beleza** nos detalhes deste novo dia. Aproveite! Bom dia."
+    },
+    {
+      "uid": "msg_bd_031",
+      "sequence": 31,
+      "titulo": "Esperança Renovada",
+      "mensagem": "Deixe a **esperança** renovar suas forças. É tempo de acreditar no melhor. Tenha um ótimo bom dia!"
+    },
+    {
+      "uid": "msg_bd_032",
+      "sequence": 32,
+      "titulo": "Sorriso de Manhã",
+      "mensagem": "Comece o dia com um **sorriso**. Ele é o melhor presente que você pode dar a si mesmo. Bom dia!"
+    },
+    {
+      "uid": "msg_bd_033",
+      "sequence": 33,
+      "titulo": "Gentileza",
+      "mensagem": "Espalhe **gentileza** por onde passar, e ela voltará para você. Que seu dia seja doce. Bom dia!"
+    },
+    {
+      "uid": "msg_bd_034",
+      "sequence": 34,
+      "titulo": "Foco e Meta",
+      "mensagem": "Lembre-se da sua **meta** e use este dia para dar mais um passo em direção a ela. Bom dia e força!"
+    },
+    {
+      "uid": "msg_bd_035",
+      "sequence": 35,
+      "titulo": "Luz Interior",
+      "mensagem": "Deixe sua **luz interior** guiar seus passos hoje. Você é incrível! Um dia iluminado. Bom dia."
+    },
+    {
+      "uid": "msg_bd_036",
+      "sequence": 36,
+      "titulo": "O Poder da Mudança",
+      "mensagem": "Se algo te incomoda, use este dia para iniciar a **mudança**. Você tem o poder. Bom dia!"
+    },
+    {
+      "uid": "msg_bd_037",
+      "sequence": 37,
+      "titulo": "Saúde em Primeiro",
+      "mensagem": "Cuide-se com carinho e priorize sua **saúde** mental e física. Um bom dia de bem-estar!"
+    },
+    {
+      "uid": "msg_bd_038",
+      "sequence": 38,
+      "titulo": "Vitória Pessoal",
+      "mensagem": "Que as suas **pequenas vitórias** de hoje sejam a força para as grandes de amanhã. Bom dia!"
+    },
+    {
+      "uid": "msg_bd_039",
+      "sequence": 39,
+      "titulo": "Amor Próprio",
+      "mensagem": "Comece amando a si mesmo e o dia será reflexo desse **amor**. Tenha um dia lindo e feliz. Bom dia!"
+    },
+    {
+      "uid": "msg_bd_040",
+      "sequence": 40,
+      "titulo": "Dia de Produtividade",
+      "mensagem": "Vista-se de **coragem** e use a manhã para ser o mais produtivo que puder. Bom dia e ótimo trabalho!"
+    },
+    {
+      "uid": "msg_bd_041",
+      "sequence": 41,
+      "titulo": "Inspiração e Criatividade",
+      "mensagem": "Que a **criatividade** flua livremente em tudo que você fizer. Um dia cheio de boas ideias! Bom dia."
+    },
+    {
+      "uid": "msg_bd_042",
+      "sequence": 42,
+      "titulo": "Conexões",
+      "mensagem": "Aproveite para **conectar** com pessoas que te fazem bem. Que seu dia seja social e feliz. Bom dia!"
+    },
+    {
+      "uid": "msg_bd_043",
+      "sequence": 43,
+      "titulo": "Otimismo",
+      "mensagem": "Vista seu melhor **otimismo** e encare o dia com a certeza de que tudo dará certo. Bom dia!"
+    },
+    {
+      "uid": "msg_bd_044",
+      "sequence": 44,
+      "titulo": "Resiliência",
+      "mensagem": "Seja **resiliente**. Se cair, levante-se mais forte e siga. Um dia de superação. Bom dia!"
+    },
+    {
+      "uid": "msg_bd_045",
+      "sequence": 45,
+      "titulo": "A Música do Dia",
+      "mensagem": "Que a **música** da felicidade toque em seu coração durante todo este dia. Bom dia!"
+    },
+    {
+      "uid": "msg_bd_046",
+      "sequence": 46,
+      "titulo": "Obrigado por Existir",
+      "mensagem": "Simplesmente, obrigado por **existir**. Sua presença faz diferença. Tenha um ótimo bom dia!"
+    },
+    {
+      "uid": "msg_bd_047",
+      "sequence": 47,
+      "titulo": "A Hora é Agora",
+      "mensagem": "Não espere pelo amanhã para fazer o que pode ser feito **agora**. Um dia de ação imediata. Bom dia!"
+    },
+    {
+      "uid": "msg_bd_048",
+      "sequence": 48,
+      "titulo": "Aproveite o Processo",
+      "mensagem": "Mais do que o destino, aproveite o **processo** da jornada. Seja feliz no caminho. Bom dia!"
+    },
+    {
+      "uid": "msg_bd_049",
+      "sequence": 49,
+      "titulo": "Sabedoria Diária",
+      "mensagem": "Busque a **sabedoria** nas pequenas escolhas. Que sua jornada seja de aprendizado. Bom dia!"
+    },
+    {
+      "uid": "msg_bd_050",
+      "sequence": 50,
+      "titulo": "Pequenas Grandes Coisas",
+      "mensagem": "A felicidade está nas **pequenas grandes coisas**. Olhe com o coração. Bom dia!"
+    },
+    {
+      "uid": "msg_bd_051",
+      "sequence": 51,
+      "titulo": "Caminhos Abertos",
+      "mensagem": "Que Deus te abençoe e abra todos os **caminhos** para você realizar seus desejos. Bom dia com muita fé!"
+    },
+    {
+      "uid": "msg_bd_052",
+      "sequence": 52,
+      "titulo": "Força no Café",
+      "mensagem": "Tome um bom café, respire fundo e sinta a **força** para encarar o que for preciso. Bom dia e ânimo!"
+    },
+    {
+      "uid": "msg_bd_053",
+      "sequence": 53,
+      "titulo": "Coragem para Tentar",
+      "mensagem": "Não tenha medo de **tentar**. A falha é apenas feedback, não um fim. Um bom dia de coragem!"
+    },
+    {
+      "uid": "msg_bd_054",
+      "sequence": 54,
+      "titulo": "Um Dia de Paz",
+      "mensagem": "Que a **paz** interior seja o seu guia hoje, mantendo a calma diante das turbulências. Bom dia!"
+    },
+    {
+      "uid": "msg_bd_055",
+      "sequence": 55,
+      "titulo": "Sua Melhor Versão",
+      "mensagem": "Comprometa-se a ser a **melhor versão** de si mesmo hoje. Seu potencial é ilimitado. Bom dia!"
+    },
+    {
+      "uid": "msg_bd_056",
+      "sequence": 56,
+      "titulo": "A Doçura da Vida",
+      "mensagem": "Que a **doçura** da vida se revele nas surpresas e nos momentos simples deste dia. Bom dia!"
+    },
+    {
+      "uid": "msg_bd_057",
+      "sequence": 57,
+      "titulo": "Semeie o Bem",
+      "mensagem": "Hoje é um bom dia para **semear** bondade, colher gratidão e espalhar amor. Bom dia!"
+    },
+    {
+      "uid": "msg_bd_058",
+      "sequence": 58,
+      "titulo": "Energia da Mudança",
+      "mensagem": "Permita que a **energia** deste amanhecer traga as mudanças positivas que você busca. Bom dia!"
+    },
+    {
+      "uid": "msg_bd_059",
+      "sequence": 59,
+      "titulo": "Felicidade é Escolha",
+      "mensagem": "Lembre-se: **ser feliz** é uma escolha diária. Faça essa escolha hoje! Tenha um ótimo bom dia!"
+    },
+    {
+      "uid": "msg_bd_060",
+      "sequence": 60,
+      "titulo": "Presente da Vida",
+      "mensagem": "Aproveite cada folha do calendário como um **presente** especial da vida. Viver é uma bênção. Bom dia!"
+    },
+    {
+      "uid": "msg_bd_061",
+      "sequence": 61,
+      "titulo": "Superação",
+      "mensagem": "Se o dia estiver difícil, lembre-se da sua capacidade de **superação**. Você consegue! Bom dia com força!"
+    },
+    {
+      "uid": "msg_bd_062",
+      "sequence": 62,
+      "titulo": "Coração Agradecido",
+      "mensagem": "Com um **coração agradecido**, todo o peso se torna leve. Viva a gratidão. Bom dia!"
+    },
+    {
+      "uid": "msg_bd_063",
+      "sequence": 63,
+      "titulo": "A Magia do Agora",
+      "mensagem": "Não viva no futuro. A **magia** acontece no momento presente. Aproveite o seu agora. Bom dia!"
+    },
+    {
+      "uid": "msg_bd_064",
+      "sequence": 64,
+      "titulo": "Metas Pequenas",
+      "mensagem": "Comece com **metas pequenas** e a cada conquista, sinta-se mais perto do sucesso. Bom dia e foco!"
+    },
+    {
+      "uid": "msg_bd_065",
+      "sequence": 65,
+      "titulo": "Bondade",
+      "mensagem": "Que a **bondade** te guie e te traga retornos maravilhosos. Distribua luz. Bom dia!"
+    },
+    {
+      "uid": "msg_bd_066",
+      "sequence": 66,
+      "titulo": "Dia de Florescer",
+      "mensagem": "Assim como as flores, é hora de **florescer** e mostrar sua beleza ao mundo. Bom dia!"
+    },
+    {
+      "uid": "msg_bd_067",
+      "sequence": 67,
+      "titulo": "Simplicidade",
+      "mensagem": "Encontre a **simplicidade** e a felicidade no cotidiano. Um bom dia despretensioso e leve."
+    },
+    {
+      "uid": "msg_bd_068",
+      "sequence": 68,
+      "titulo": "Foque no Positivo",
+      "mensagem": "Descarte o que é negativo e **foque no positivo**. Sua energia é preciosa. Bom dia!"
+    },
+    {
+      "uid": "msg_bd_069",
+      "sequence": 69,
+      "titulo": "Recomeço Lindo",
+      "mensagem": "Que este seja um **recomeço** tão lindo quanto você planejou. Acredite no seu potencial. Bom dia!"
+    },
+    {
+      "uid": "msg_bd_070",
+      "sequence": 70,
+      "titulo": "O Poder da Decisão",
+      "mensagem": "Lembre-se que você tem o **poder** de decidir como será o seu dia. Escolha ser feliz. Bom dia!"
+    },
+    {
+      "uid": "msg_bd_071",
+      "sequence": 71,
+      "titulo": "Um Abraço",
+      "mensagem": "Receba um **abraço** de luz e paz para que seu dia seja confortável e cheio de carinho. Bom dia!"
+    },
+    {
+      "uid": "msg_bd_072",
+      "sequence": 72,
+      "titulo": "Paciência e Sabedoria",
+      "mensagem": "Que a **paciência** seja sua aliada para lidar com as pequenas (ou grandes) questões. Bom dia e sabedoria!"
+    },
+    {
+      "uid": "msg_bd_073",
+      "sequence": 73,
+      "titulo": "O Sol Interior",
+      "mensagem": "Se o dia estiver cinza, acenda o **sol interior** que brilha em você. Seu dia depende da sua atitude. Bom dia!"
+    },
+    {
+      "uid": "msg_bd_074",
+      "sequence": 74,
+      "titulo": "Conquiste Seu Dia",
+      "mensagem": "Saia à luta e **conquiste** seu dia! Ninguém fará isso por você. Bom dia, guerreiro(a)!"
+    },
+    {
+      "uid": "msg_bd_075",
+      "sequence": 75,
+      "titulo": "Um Desejo Especial",
+      "mensagem": "Um **desejo especial** de que cada minuto deste dia te traga algo de muito bom. Bom dia!"
+    },
+    {
+      "uid": "msg_bd_076",
+      "sequence": 76,
+      "titulo": "Ação e Reação",
+      "mensagem": "Tudo o que você coloca no mundo retorna para você. Escolha boas **ações** hoje. Bom dia!"
+    },
+    {
+      "uid": "msg_bd_077",
+      "sequence": 77,
+      "titulo": "Poder do Hábito",
+      "mensagem": "Um dia de cada vez, construindo **bons hábitos**. Lembre-se que a consistência é a chave. Bom dia!"
+    },
+    {
+      "uid": "msg_bd_078",
+      "sequence": 78,
+      "titulo": "Leveza da Alma",
+      "mensagem": "Deixe ir o que te pesa. A **leveza da alma** é essencial para um dia produtivo. Bom dia!"
+    },
+    {
+      "uid": "msg_bd_079",
+      "sequence": 79,
+      "titulo": "Aprender e Evoluir",
+      "mensagem": "Que este dia seja de muito **aprendizado** e que você evolua um pouco mais. Bom dia com crescimento!"
+    },
+    {
+      "uid": "msg_bd_080",
+      "sequence": 80,
+      "titulo": "Celebre a Vida",
+      "mensagem": "Acordar já é uma **celebração**. Use sua energia para aproveitar este presente. Bom dia!"
+    },
+    {
+      "uid": "msg_bd_081",
+      "sequence": 81,
+      "titulo": "Foco no Agora",
+      "mensagem": "Não se preocupe com o ontem nem o amanhã. O que importa é o **foco no agora**. Bom dia!"
+    },
+    {
+      "uid": "msg_bd_082",
+      "sequence": 82,
+      "titulo": "Mente Aberta",
+      "mensagem": "Mantenha a **mente aberta** para novas perspectivas e ideias. O mundo te espera. Bom dia!"
+    },
+    {
+      "uid": "msg_bd_083",
+      "sequence": 83,
+      "titulo": "A Força da Paixão",
+      "mensagem": "Faça tudo com **paixão** e dedicação. O resultado será sempre melhor. Bom dia!"
+    },
+    {
+      "uid": "msg_bd_084",
+      "sequence": 84,
+      "titulo": "Brilhe Muito",
+      "mensagem": "Não se esconda. Você nasceu para **brilhar** e inspirar. Use sua luz hoje. Bom dia!"
+    },
+    {
+      "uid": "msg_bd_085",
+      "sequence": 85,
+      "titulo": "Calma e Respiração",
+      "mensagem": "Sempre que o estresse bater, use a **calma** e a respiração. Um dia tranquilo para você. Bom dia!"
+    },
+    {
+      "uid": "msg_bd_086",
+      "sequence": 86,
+      "titulo": "Seja O Diferencial",
+      "mensagem": "Em um mundo de cópias, ouse ser o **diferencial**. Sua originalidade é sua força. Bom dia!"
+    },
+    {
+      "uid": "msg_bd_087",
+      "sequence": 87,
+      "titulo": "A Magia Acontece",
+      "mensagem": "Acredite que a **magia acontece** quando você coloca o coração no que faz. Bom dia!"
+    },
+    {
+      "uid": "msg_bd_088",
+      "sequence": 88,
+      "titulo": "Gratidão pelo Sol",
+      "mensagem": "Agradeça pelo sol (ou pela chuva). **Gratidão** por este novo ciclo que se inicia. Bom dia!"
+    },
+    {
+      "uid": "msg_bd_089",
+      "sequence": 89,
+      "titulo": "Recarrega de Amor",
+      "mensagem": "Que você se **recarregue** de amor, carinho e boas amizades. Tenha um dia social e feliz. Bom dia!"
+    },
+    {
+      "uid": "msg_bd_090",
+      "sequence": 90,
+      "titulo": "Comece a Transformação",
+      "mensagem": "Se você quer uma **transformação** na sua vida, comece hoje, agora. Bom dia e atitude!"
+    },
+    {
+      "uid": "msg_bd_091",
+      "sequence": 91,
+      "titulo": "A Beleza Simples",
+      "mensagem": "A **beleza simples** das pequenas coisas é o que torna o dia memorável. Perceba. Bom dia!"
+    },
+    {
+      "uid": "msg_bd_092",
+      "sequence": 92,
+      "titulo": "Seu Melhor Investimento",
+      "mensagem": "Invista em você e na sua felicidade. Esse é o **melhor investimento** do dia. Bom dia!"
+    },
+    {
+      "uid": "msg_bd_093",
+      "sequence": 93,
+      "titulo": "Alma Leve",
+      "mensagem": "Com a **alma leve** e o coração em paz, o dia se torna mais fácil e bonito. Bom dia!"
+    },
+    {
+      "uid": "msg_bd_094",
+      "sequence": 94,
+      "titulo": "Sonhos Que Movem",
+      "mensagem": "Que seus **sonhos** sejam o combustível para cada passo que você der hoje. Bom dia!"
+    },
+    {
+      "uid": "msg_bd_095",
+      "titulo": "Sua História",
+      "sequence": 95,
+      "mensagem": "Cada dia é uma página da **sua história**. Escreva um capítulo incrível hoje. Bom dia!"
+    },
+    {
+      "uid": "msg_bd_096",
+      "sequence": 96,
+      "titulo": "Gratidão e Café",
+      "mensagem": "Uma dose de **gratidão** e uma xícara de café forte: a receita para um dia ótimo. Bom dia!"
+    },
+    {
+      "uid": "msg_bd_097",
+      "sequence": 97,
+      "titulo": "Coragem de Ser Feliz",
+      "mensagem": "Tenha a **coragem de ser feliz** e não se importe com o julgamento alheio. Bom dia!"
+    },
+    {
+      "uid": "msg_bd_098",
+      "sequence": 98,
+      "titulo": "A Lei do Retorno",
+      "mensagem": "Lembre-se da **Lei do Retorno** e distribua o melhor de si. A vida recompensa. Bom dia!"
+    },
+    {
+      "uid": "msg_bd_099",
+      "sequence": 99,
+      "titulo": "Respire Fundo",
+      "mensagem": "Se a pressão apertar, **respire fundo** e siga no seu ritmo. O importante é não parar. Bom dia!"
+    },
+    {
+      "uid": "msg_bd_100",
+      "sequence": 100,
+      "titulo": "Seja Luz",
+      "mensagem": "Que sua presença seja **luz** e paz para todos que cruzarem seu caminho. Bom dia!"
+    },
+    {
+      "uid": "msg_bd_101",
+      "sequence": 101,
+      "titulo": "Realize o Impossível",
+      "mensagem": "Acorde com a certeza de que hoje é o dia de **realizar o impossível**, com fé e dedicação. Bom dia!"
+    }
+  ]
+}
